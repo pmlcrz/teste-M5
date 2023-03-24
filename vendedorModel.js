@@ -4,6 +4,11 @@ class VendedorModel {
 
   constructor(nome, email, cpf, metas) {
 
+    //nome: obj.nome,
+    //email: obj.email,
+    //cpf: obj.cpf,
+    //metas: obj.metas,
+  //};
     obj.nome = nome;
 
     obj.email = email;
@@ -15,6 +20,7 @@ class VendedorModel {
   }
 
   async save() {
+    
 
     const query = 'INSERT INTO vendedores (nome, email, cpf, metas) VALUES (?, ?, ?, ?)';
 
