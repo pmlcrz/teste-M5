@@ -1,0 +1,46 @@
+{
+  "Vendedores": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joaosilva@ztech.com",
+      "cpf": 12345678901,
+      "metas": 3000
+    },
+    {
+        "id": 2,
+        "nome": "Maria Helena",
+        "email": "mariahelena@ztech.com",
+        "cpf": 98765432101,
+        "metas": 3000
+    },
+    {
+        "id": 3,
+      "nome": "Pedro Souza",
+      "email": "pedrosouza@ztech.com",
+      "cpf": 45678912301,
+      "metas": 3000
+    },
+    {
+        "id": 4,
+        "nome": "Caroline Santos",
+        "email": "carolinesantos@ztech.com",
+        "cpf": 36921478021,
+        "metas": 3000   
+     },
+      {
+        "id": 5,
+        "nome": "Patricia Lemos",
+        "email": "patricialemos@ztech.com",
+        "cpf": 78901269740,
+        "metas": 3000
+      },
+        {
+            "id": 6,
+            "nome": "Yuri Rocha",
+            "email": "yurirocha@ztech.com",
+            "cpf": 15401237895,
+            "metas": 3000
+        }
+  ]
+}
